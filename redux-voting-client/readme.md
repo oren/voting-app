@@ -12,5 +12,5 @@ cd dist
 python -m SimpleHTTPServer
 ```
 
-voting app: http://localhost:8000
-results app: http://localhost:8000/#/results
+* voting app: http://localhost:8000
+* results app: http://localhost:8000/#/results
