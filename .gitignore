@@ -1,1 +1,6 @@
 tags
+redux-voting-client/node_modules
+redux-voting-client/dist/bundle.js
+redux-voting-server/node_modules
+
+
